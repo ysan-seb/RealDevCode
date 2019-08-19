@@ -1,0 +1,7 @@
+{
+  "task": "bitcoin-trackdown",
+  "configSource": "cli",
+  "stack": {
+    "type": "nodejs"
+  }
+}
